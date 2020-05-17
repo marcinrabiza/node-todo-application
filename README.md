@@ -1,7 +1,7 @@
 # node-todo-application
 A simple TODO task management application made with [Node.js](https://nodejs.org/en/), [Angular.js](https://angularjs.org) and [MongoDB](https://www.mongodb.com).
 
-### How to test?
+### How to run?
 
 1. To run the application you should have Node.js installed with some additional modules such as body-parser, cors, mongodb, path etc.  Use ```sudo npm install <module>``` command in the project directory.
 
